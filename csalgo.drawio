@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T10:02:05.561Z" agent="5.0 (X11)" etag="bpKtrQ3mIpTpvTumMsHV" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T10:07:45.871Z" agent="5.0 (X11)" etag="8yXWOjdf9IxJ3cLUF7Mr" version="15.1.4" type="github">
   <diagram id="WY8Cb1yjvhTDbGLefZF3" name="Page-1">
     <mxGraphModel dx="1357" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gFXwDjs-uEaT61Vq_dua-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="390" width="120" height="90" as="geometry" />
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Controller Synthesis Algorithm&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gFXwDjs-uEaT61Vq_dua-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -13,18 +13,7 @@
             <mxPoint x="360" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFXwDjs-uEaT61Vq_dua-3" value="$\mathcal{C}$" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gFXwDjs-uEaT61Vq_dua-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="258" y="440" as="sourcePoint" />
-            <mxPoint x="358" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gFXwDjs-uEaT61Vq_dua-5" value="&lt;div&gt;$\mathcal{P}$&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-4">
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-3" value="&lt;div&gt;$$\mathcal{C}$$&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
@@ -35,7 +24,25 @@
             <mxPoint x="360" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFXwDjs-uEaT61Vq_dua-7" value="$\phi$" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-6">
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-7" value="$$\phi$$" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-10" value="$$\mathcal{P}$$" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="434.5" as="sourcePoint" />
+            <mxPoint x="580" y="434.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gFXwDjs-uEaT61Vq_dua-12" value="$$\mathcal{C&#39;}$$" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gFXwDjs-uEaT61Vq_dua-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
